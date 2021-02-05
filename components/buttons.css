@@ -1,0 +1,48 @@
+/*Fond de couleur et texte blanc*/
+.my-btn {
+  padding: 5px 10px;
+  border-radius: 50px;
+}
+
+.my-btn-border {
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 1px;
+}
+
+.my-blue-btn {
+  background-color: blue;
+  border: 1px solid blue;
+  color: white;
+}
+
+.my-red-btn {
+  background-color: red;
+  border: 1px solid red;
+  color: white;
+}
+
+.my-green-btn {
+  background-color: green;
+  border: 1px solid green;
+  color: white;
+}
+
+/*Fond transparent, bordures et texte de couleur*/
+.my-border-blue-btn {
+  background-color: transparent;
+  border: 1px solid blue;
+  color: blue;
+}
+
+.my-border-red-btn {
+  background-color: transparent;
+  border: 1px solid red;
+  color: red;
+}
+
+.my-border-green-btn {
+  background-color: transparent;
+  border: 1px solid green;
+  color: green;
+}
