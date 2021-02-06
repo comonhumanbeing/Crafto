@@ -168,7 +168,7 @@ body {
 
 
 #id3-1-1 {
-	width: 270px;
+	width: 250px;
 	border: 3px solid white;
 	padding: 5px;
 	margin-bottom: 5px;
@@ -186,6 +186,12 @@ body {
 #id3-3-1 {
 	display: flex;
 	margin-bottom: 10px;
+	color: #fff;
+}
+
+#id3-3-2 {
+	display: flex;
+	align-items: flex-start;
 	color: #fff;
 }
 
